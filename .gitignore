@@ -1,0 +1,15 @@
+
+# IDE-specific files
+.vscode/
+.idea/
+*.sublime-*
+
+
+
+# Text file
+*.txt
+
+
+# Ignore CSV files
+*.csv
+
