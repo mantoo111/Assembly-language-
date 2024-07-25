@@ -13,3 +13,5 @@
 # Ignore CSV files
 *.csv
 
+
+.docx
